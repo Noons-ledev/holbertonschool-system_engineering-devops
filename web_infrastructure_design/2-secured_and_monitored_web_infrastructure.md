@@ -116,5 +116,3 @@ If you want to **monitor your web server’s QPS**, you can:
 
 ## **Final Thoughts**
 This infrastructure is **secure, encrypted, and monitored**, but **optimizations are needed** to eliminate **single points of failure**, improve **data security**, and simplify management.
-
-Would you like recommendations for **auto-scaling** or **redundant HAProxy failover**?
