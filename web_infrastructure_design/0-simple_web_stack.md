@@ -20,7 +20,7 @@ sequenceDiagram
     Browser-->>User: Displays the website
 ````
 
-# One-Server Web Infrastructure for www.foobar.com
+# One-Server Web Infrastructure for "www.foobar.com"
 
 This document describes the **one-server web infrastructure** that hosts the website accessible via `www.foobar.com`, detailing its components, roles, and potential issues.
 
